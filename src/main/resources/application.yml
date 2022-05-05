@@ -1,0 +1,7 @@
+property:
+  exchange-rate-api-apikey: 6b929s8fHhM9cZ53Sgf0JqdX96Z900Zj
+  exchange-rate-api-url: https://api.apilayer.com/currency_data/live
+spring:
+  thymeleaf:
+    prefix: classpath:templates/
+    suffix: .html
